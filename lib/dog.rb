@@ -12,6 +12,11 @@ class Dog
    @doggies
    
   end
+  
+  
+  def
+    puts ""
+  end
 
 
 end
