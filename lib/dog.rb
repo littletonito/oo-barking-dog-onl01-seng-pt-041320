@@ -4,12 +4,13 @@
 class Dog
   
   def name= (dog)
-   doggies = dog
+   @doggies = dog
   end
   
   
   def name
-   doggies
+   @doggies
+   
   end
 
 
